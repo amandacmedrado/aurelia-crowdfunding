@@ -1,0 +1,74 @@
+---
+title: "CAMPANHAS"
+output: 
+  html_document:
+    css: style.css
+    self_contained: true
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css">
+
+<div class="container">
+
+<div class="container-subtitle">
+  <p>Aqui estão as campanhas nas quais você pode apoiar.</p>
+</div>
+
+ <div class="card">
+  <img src="images/campanha1.PNG" alt="Imagem Card" class="card-image">
+  <p><strong><i class="bi bi-building"></i> Nome:</strong> Campanha 1</p>
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Ajude a transformar ideias em realidade e empoderar mulheres empreendedoras. Sua contribuição vai diretamente para apoiar startups lideradas por mulheres e projetos que promovem a igualdade de oportunidades. Juntos, podemos fazer a diferença, fomentar a inovação e criar um futuro mais inclusivo. Doe hoje e seja parte dessa transformação!</p>
+  <p><strong><i class="bi bi-briefcase"></i> Categoria:</strong> Categoria 1</p>
+  <button href="" >APOIAR</button>
+</div>
+
+ <div class="card">
+  <img src="images/campanha2.PNG" alt="Imagem Card" class="card-image">
+  <p><strong><i class="bi bi-building"></i> Nome:</strong> Campanha 2</p>
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Ajude a transformar ideias em realidade e empoderar mulheres empreendedoras. Sua contribuição vai diretamente para apoiar startups lideradas por mulheres e projetos que promovem a igualdade de oportunidades. Juntos, podemos fazer a diferença, fomentar a inovação e criar um futuro mais inclusivo. Doe hoje e seja parte dessa transformação!</p>
+  <p><strong><i class="bi bi-briefcase"></i> Categoria:</strong> Categoria 2</p>
+  <button href="" >APOIAR</button>
+</div>
+
+ <div class="card">
+  <img src="images/campanha3.PNG" alt="Imagem Card" class="card-image">
+  <p><strong><i class="bi bi-building"></i> Nome:</strong> Campanha 3</p>
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Ajude a transformar ideias em realidade e empoderar mulheres empreendedoras. Sua contribuição vai diretamente para apoiar startups lideradas por mulheres e projetos que promovem a igualdade de oportunidades. Juntos, podemos fazer a diferença, fomentar a inovação e criar um futuro mais inclusivo. Doe hoje e seja parte dessa transformação!</p>
+  <p><strong><i class="bi bi-briefcase"></i> Categoria:</strong> Categoria 3</p>
+  <button href="" >APOIAR</button>
+</div>
+
+ <div class="card">
+ <img src="images/campanha4.PNG" alt="Imagem Card" class="card-image">
+ <p><strong><i class="bi bi-building"></i> Nome:</strong> Campanha 4</p>
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Ajude a transformar ideias em realidade e empoderar mulheres empreendedoras. Sua contribuição vai diretamente para apoiar startups lideradas por mulheres e projetos que promovem a igualdade de oportunidades. Juntos, podemos fazer a diferença, fomentar a inovação e criar um futuro mais inclusivo. Doe hoje e seja parte dessa transformação!</p>
+<p><strong><i class="bi bi-briefcase"></i> Categoria:</strong> Categoria 4</p>
+<button href="" >APOIAR</button>
+</div>
+
+ <div class="card">
+ <img src="images/campanha5.PNG" alt="Imagem Card" class="card-image">
+  <p><strong><i class="bi bi-building"></i> Nome:</strong> Campanha 5</p>
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Ajude a transformar ideias em realidade e empoderar mulheres empreendedoras. Sua contribuição vai diretamente para apoiar startups lideradas por mulheres e projetos que promovem a igualdade de oportunidades. Juntos, podemos fazer a diferença, fomentar a inovação e criar um futuro mais inclusivo. Doe hoje e seja parte dessa transformação!</p>
+  <p><strong><i class="bi bi-briefcase"></i> Categoria:</strong> Categoria 5</p>
+  <button href="" >APOIAR</button>
+</div>
+
+</div>
+
+<!-- Footer -->
+<footer>
+
+<div>
+  <p>&copy; 2024 AURELIA. Todos os direitos reservados. <a href="">Política de Privacidade</a> | <a href="">Termos de Serviço</a></p>
+</div> 
+
+<div class="payment-methods">
+  <p>Formas de Pagamento:</p>
+  <img src="images/visa.PNG" alt="Visa" class="payment-icon">
+  <img src="images/master.PNG" alt="MasterCard" class="payment-icon">
+  <img src="images/amex.PNG" alt="American Express" class="payment-icon">
+  <img src="images/elo.PNG" alt="Elo" class="payment-icon">
+  <img src="images/pix.PNG" alt="PIX" class="payment-icon">
+</div>
+</footer>

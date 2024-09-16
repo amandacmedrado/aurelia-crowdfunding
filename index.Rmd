@@ -1,0 +1,71 @@
+---
+title: ""
+output: 
+  html_document:
+    css: style.css
+    self_contained: true
+---
+
+
+<div class="container">
+ 
+
+  
+<div class="image-container">
+  <img src="images/home2.PNG" alt="Imagem 1">
+  <img src="images/home-banner.PNG" alt="Imagem 2">
+</div>
+
+
+
+<div class="col-container">
+  <div>
+  <h2>SOBRE NÓS</h2>
+  <br>
+  <p>Somos uma plataforma dedicada a apoiar ONGs ou empresas voltadas ao combate à desigualdade de gênero no Brasil, além de empresas comandadas por mulheres.</p>
+  <p>Nosso principal objetivo é reduzir a desigualdade de gênero e incentivar o empreendedorismo feminino no Brasil, facilitando o financiamento de projetos e empresas, a inclusão social e o combate à violência contra a mulher.</p>
+</div>
+ 
+<div>
+  ![](images/colaborador.png)
+  <h4>PARA COLABORAR</h4>
+  <br>
+  <p>Doe qualquer quantia e faça parte dessa campanha de incentivo às mulheres.</p>
+  <br>
+  <a href="campanhas.html" class="button">SEJA UM COLABORADOR</a>
+  <br>
+</div>
+
+<div>
+  ![](images/cadastrar-campanha.png)
+  <h4>RECEBA NOSSO APOIO</h4>
+  <br>
+  <p>Cadastre a campanha de sua ONG ou empresa e receba o incentivo financeiro e conhecimento que precisa.</p>
+  <br>
+  <a href="criarcampanha.html" class="button">CADASTRE SUA CAMPANHA</a>
+  <br>
+</div>
+
+
+</div>
+
+  
+</div>
+
+<!-- Footer -->
+<footer>
+
+<div>
+  <p>&copy; 2024 AURELIA. Todos os direitos reservados. <a href="">Política de Privacidade</a> | <a href="">Termos de Serviço</a></p>
+</div> 
+
+<div class="payment-methods">
+  <p>Formas de Pagamento:</p>
+  <img src="images/visa.PNG" alt="Visa" class="payment-icon">
+  <img src="images/master.PNG" alt="MasterCard" class="payment-icon">
+  <img src="images/amex.PNG" alt="American Express" class="payment-icon">
+  <img src="images/elo.PNG" alt="Elo" class="payment-icon">
+  <img src="images/pix.PNG" alt="PIX" class="payment-icon">
+</div>
+</footer>
+

@@ -1,0 +1,15 @@
+name: "AURELIA"
+output_dir: docs
+navbar:
+  title: ""
+  left:
+    - text: "INÍCIO"
+      href: index.html
+    - text: "CRIAR CAMPANHA"
+      href: criarcampanha.html
+    - text: "CAMPANHAS"
+      href: campanhas.html
+    - text: "LOGIN"
+      href: login.html
+
+

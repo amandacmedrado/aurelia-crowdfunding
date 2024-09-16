@@ -1,0 +1,55 @@
+---
+title: ""
+output: 
+  html_document:
+    css: style.css
+    self_contained: true
+---
+
+
+<div class="container">
+
+<div class="login-container">
+  <img src="images/login.PNG" alt="Imagem 1">
+
+  <h2>Olá!</h2>
+  <p>Entre para continuar.</p>
+  <form id="loginForm">
+    <label for="username">USUÁRIO:</label>
+    <input type="text" id="username" name="username" required>
+    <label for="password">SENHA:</label>
+    <input type="password" id="password" name="password" required>
+    <button type="submit">ENTRAR</button>
+    <p>Esqueceu a senha? <a href="">Clique aqui.</a></p>
+    <p><a href="">Cadastre-se.</a></p>
+  </form>
+</div>
+</div>
+
+<!-- Footer -->
+<footer>
+
+<div>
+  <p>&copy; 2024 AURELIA. Todos os direitos reservados. <a href="">Política de Privacidade</a> | <a href="">Termos de Serviço</a></p>
+</div> 
+
+<div class="payment-methods">
+  <p>Formas de Pagamento:</p>
+  <img src="images/visa.PNG" alt="Visa" class="payment-icon">
+  <img src="images/master.PNG" alt="MasterCard" class="payment-icon">
+  <img src="images/amex.PNG" alt="American Express" class="payment-icon">
+  <img src="images/elo.PNG" alt="Elo" class="payment-icon">
+  <img src="images/pix.PNG" alt="PIX" class="payment-icon">
+</div>
+</footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('loginForm').addEventListener('submit', function(event) {
+      event.preventDefault(); // Impede o envio real do formulário
+      alert('Login realizado com sucesso!');
+    });
+  });
+</script>
+
+
