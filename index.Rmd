@@ -27,7 +27,7 @@ output:
 </div>
  
 <div>
-  ![](images/colaborador.png)
+  ![](images/colaborador.PNG)
   <h4>PARA COLABORAR</h4>
   <br>
   <p>Doe qualquer quantia e faça parte dessa campanha de incentivo às mulheres.</p>
@@ -37,7 +37,7 @@ output:
 </div>
 
 <div>
-  ![](images/cadastrar-campanha.png)
+  ![](images/cadastrar-campanha.PNG)
   <h4>RECEBA NOSSO APOIO</h4>
   <br>
   <p>Cadastre a campanha de sua ONG ou empresa e receba o incentivo financeiro e conhecimento que precisa.</p>
