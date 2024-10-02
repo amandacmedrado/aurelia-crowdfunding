@@ -41,7 +41,7 @@ output:
   <img src="images/elo.PNG" alt="Elo" class="payment-icon">
   <img src="images/pix.PNG" alt="PIX" class="payment-icon">
 </div>
-</footer>
+</footer
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
