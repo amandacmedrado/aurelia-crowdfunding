@@ -57,7 +57,7 @@ Meta: R$ 4.000</p>
  <div class="card">
   <img src="images/campanha3.PNG" alt="Imagem Card" class="card-image">
   <p><strong><i class="bi bi-building"></i> Nome:</strong> Apoie o Sonho da Clara e da Jéssica</p>
-  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> AOlá, somos Clara e Jéssica, duas amigas e designers apaixonadas por transformar ideias em realidade. Desde que nos conhecemos na faculdade, sonhamos em criar uma marca que una criatividade e sustentabilidade. Agora, estamos prontas para dar o primeiro passo, mas precisamos da sua ajuda!
+  <p><strong><i class="bi bi-info-circle"></i> Descrição:</strong> Olá, somos Clara e Jéssica, duas amigas e designers apaixonadas por transformar ideias em realidade. Desde que nos conhecemos na faculdade, sonhamos em criar uma marca que una criatividade e sustentabilidade. Agora, estamos prontas para dar o primeiro passo, mas precisamos da sua ajuda!
 
 Com um investimento de R$ 6.000, queremos:
 
