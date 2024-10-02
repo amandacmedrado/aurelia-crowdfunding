@@ -9,8 +9,9 @@ body {
 .container {
   width: 100%;
   margin: auto;
-  overflow: hidden;
+  overflow: visible;
   padding: 20px;
+  height: auto;
 }
 
 .container-subtitle p {
@@ -120,11 +121,13 @@ p {
 .image-container {
   display: flex;
   justify-content: space-between;
+  overflow: visible;
   margin: 0 auto;
 }
 
 .image-container img {
   max-width: 48%; 
+  overflow: visible;
   height: auto;
 }
 
@@ -267,12 +270,15 @@ footer a:hover {
 .payment-methods p {
   margin: 0;
   font-weight: bold;
+  overflow: visible;
+  height: auto;
 }
 
 .payment-icon {
   width: 40px; /* Ajuste o tamanho conforme necessário */
   height: auto;
   margin: 0 10px;
+  overflow: visible;
   vertical-align: middle;
 }
 
